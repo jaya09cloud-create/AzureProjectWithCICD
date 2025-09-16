@@ -1,6 +1,6 @@
 [
     {
-        "pp_relative_url" : "https://raw.githubusercontent.com/jaya09cloud-create/AzureProjectWithCICD/refs/heads/main/athletes.csv",
+        "p_relative_url" : "https://raw.githubusercontent.com/jaya09cloud-create/AzureProjectWithCICD/refs/heads/main/athletes.csv",
         "p_folder" : "athletes",
         "p_file" : "athletes.parquet"
     },
